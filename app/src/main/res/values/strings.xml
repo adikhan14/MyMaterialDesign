@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMaterialDesign</string>
+    <string name="exit_button">Exit (Back Press)</string>
+    <string name="detail">Welcome</string>
+    <string name="detail_Description">Welcome EveryOne By Adil</string>
+    <string name="title">Friends</string>
+</resources>
